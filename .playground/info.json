@@ -1,0 +1,11 @@
+{
+  "title": "Jungle Adventure El Maestro",
+  "version": "1.0.0",
+  "description": "A simple text-based adventure game set in a jungle environment. Make choices to navigate through different paths and discover various outcomes.",
+  "author": "Your Name",
+  "date": "2024-08-10",
+  "license": "MIT",
+  "dependencies": [],
+  "platforms": ["PC"],
+  "language": "C++"
+}
